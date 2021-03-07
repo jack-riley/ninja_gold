@@ -1,0 +1,97 @@
+.container{
+    width: 1000px;
+    min-height: 300px;
+    background-color: lightgrey;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+}
+.current h3{
+    display: inline-block;
+    margin: 10 px;
+    vertical-align: top;
+
+    
+}
+
+.current h4{
+    padding: 5px;
+    min-width: 150px;
+    height: 30px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    margin: 10 px;
+
+}
+
+.body{
+    border-style: solid;
+    border-color: black;
+    width: 950 px;
+    min-height: 110px;
+    padding: 10px;
+}
+
+.box{
+    width: 210px;
+    height: 100px;
+    background-color: lightyellow;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+.box h2{
+    text-align: center;
+    margin: 5px
+
+
+}
+
+.box p{
+    text-align: center;
+    margin: 5px
+}
+
+.box button{
+    background-color: gold;
+    padding: 5px;
+    border-style: solid;
+    border-color: black;
+    border-right: 10 px solid black;
+    border-bottom: 10 px solid black;
+    margin: 5px 68px;
+
+}
+
+.footer{
+    width: 950px;
+    height: 150 px;
+
+
+}
+
+.footer h5{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer p{
+    display: inline-block;
+    width: 860px;
+    height: 100px;
+    background-color: white;
+    overflow: auto ;
+    vertical-align: bottom;
+    margin-top: 25px;
+}
+
+.gain{
+    color: black;
+}
+
+.loss{
+    color: red
+}
